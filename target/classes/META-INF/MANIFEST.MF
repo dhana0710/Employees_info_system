@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: DELL
+Build-Jdk: 17.0.1
+Implementation-Title: springboot-backend1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.java.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-backend1
+Created-By: Maven Integration for Eclipse
+
